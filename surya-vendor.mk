@@ -207,6 +207,17 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/surya/proprietary/product/lib64/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.1.so \
     vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libvolumelistener.so \
     vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libvolumelistener.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libasphere.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libasphere.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libmisoundfx.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libqcompostprocbundle.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libqcompostprocbundle.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libqcomvisualizer.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libqcomvisualizer.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libqcomvoiceprocessing.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libqcomvoiceprocessing.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib/soundfx/libshoebox.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libshoebox.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libasphere.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libasphere.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libqcompostprocbundle.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libqcompostprocbundle.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libqcomvisualizer.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libqcomvisualizer.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libqcomvoiceprocessing.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libqcomvoiceprocessing.so \
+    vendor/xiaomi/surya/proprietary/product/vendor_overlay/29/lib64/soundfx/libshoebox.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libshoebox.so \
     vendor/xiaomi/surya/proprietary/system_ext/lib64/libdpmframework.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libdpmframework.so
 
 PRODUCT_PACKAGES += \
